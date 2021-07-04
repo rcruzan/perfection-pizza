@@ -3,8 +3,8 @@ Perfection Pizza is a small game that I have been working on for the last two we
 I hope that you have the patience to do some downloading and set the game up.
 
 You will need to DOWNLOAD and INSTALL both Java Eclipse and Java in order to play. 
-https://www.eclipse.org/downloads/ The latest version x86_64 should work just fine.
-You'll also need to download the zip folder called "Perfection Pizza," of course.
+https://www.eclipse.org/downloads/ 
+The latest version x86_64 should work just fine. You'll also need to download the zip folder called "Perfection Pizza," of course.
 
 * * * * *
 
